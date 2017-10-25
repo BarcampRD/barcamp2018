@@ -201,6 +201,10 @@ p {
     border-left: 1px solid #DADADA;
 }
 
+.borderRight {
+    border-right: 1px solid #DADADA;
+}
+
 .borderTop {
     margin-top: 30px;
     border-top: 1px solid #DADADA;
